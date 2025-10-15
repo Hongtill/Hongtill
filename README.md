@@ -1,6 +1,8 @@
 ## Hi there 👋
-![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=highcontrast)
+![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922)](https://solved.ac/dbsg0922)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark)
+
 <!--
 **Hongtill/Hongtill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
