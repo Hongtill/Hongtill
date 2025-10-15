@@ -7,6 +7,24 @@
 - 🔧 Interested in **Data Engineering, ETL pipelines, and scalable data platforms**
 - 🚀 Passionate about **turning data into actionable insights**
 
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark" width="500"/>
+</p>
+
+<h3>🧩 Algorithm</h3>
+<p align="center">
+  <a href="https://solved.ac/dbsg0922">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922" width="500"/>
+  </a>
+</p>
+
+<h3>📫 GitHub Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark" width="500"/>
+</p>
+
+
 ### 🛠 Tech Stack
 
 #### 🚀 Programming & Scripting
@@ -68,15 +86,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-### 📊 GitHub Stats
-![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark)
-
-### 🧩 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922)](https://solved.ac/dbsg0922)
-
-### 📫 Github Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark)
 
 
 <!--
