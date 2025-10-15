@@ -1,4 +1,4 @@
-## Working in Samsung Electronics
+### Working in Samsung Electronics
 ##### Currently working on semiconductor yield data analysis at Samsung Electronics.
 ![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922)](https://solved.ac/dbsg0922)
