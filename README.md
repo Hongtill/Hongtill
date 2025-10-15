@@ -9,23 +9,7 @@
 
 - 
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark" width="450"/>
-</p>
-
-<h3 align="center">🧩 Algorithm</h3>
-<p align="center">
-  <a href="https://solved.ac/dbsg0922">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922" width="350"/>
-  </a>
-</p>
-
-<h3 align="center">📫 Github Language</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark" width="350"/>
-</p>
-
+### 📊 GitHub Stats ![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark) ### 🧩 Algorithm [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922)](https://solved.ac/dbsg0922) ### 📫 Github Language ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark)
 
 ### 🛠 Tech Stack
 
