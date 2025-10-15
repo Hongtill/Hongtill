@@ -7,21 +7,23 @@
 - 🔧 Interested in **Data Engineering, ETL pipelines, and scalable data platforms**
 - 🚀 Passionate about **turning data into actionable insights**
 
-<h3>📊 GitHub Stats</h3>
+- 
+
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=dark" width="450"/>
 </p>
 
-<h3>🧩 Algorithm</h3>
+<h3 align="center">🧩 Algorithm</h3>
 <p align="center">
   <a href="https://solved.ac/dbsg0922">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922" width="500"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsg0922" width="350"/>
   </a>
 </p>
 
-<h3>📫 GitHub Languages</h3>
+<h3 align="center">📫 Github Language</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongtill&layout=compact&theme=dark" width="350"/>
 </p>
 
 
