@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Hongtill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongtill&show_icons=true&theme=highcontrast)
 
 <!--
 **Hongtill/Hongtill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
